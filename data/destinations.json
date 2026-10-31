@@ -1,0 +1,202 @@
+[
+  {
+    "id": "bengaluru",
+    "name": "Bengaluru",
+    "region": "South Karnataka",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "from_bengaluru_km": 0,
+    "from_bengaluru_hours": 0,
+    "best_months": "Oct-Feb",
+    "tags": ["Food", "Heritage", "Nature", "Spiritual"],
+    "daily_cost": {"budget": 1500, "standard": 3000, "luxury": 7000},
+    "description": "Karnataka's capital: gardens, palaces, cafes and some of the best street food in India.",
+    "famous_food": "Masala Dosa and Filter Coffee",
+    "places": [
+      {"name": "Lalbagh Botanical Garden", "tags": ["Nature"], "hours": 2},
+      {"name": "Bangalore Palace", "tags": ["Heritage"], "hours": 2},
+      {"name": "Cubbon Park", "tags": ["Nature", "Relaxation"], "hours": 2},
+      {"name": "VV Puram Food Street", "tags": ["Food"], "hours": 2},
+      {"name": "Bull Temple, Basavanagudi", "tags": ["Spiritual"], "hours": 1}
+    ]
+  },
+  {
+    "id": "mysuru",
+    "name": "Mysuru",
+    "region": "South Karnataka",
+    "lat": 12.2958,
+    "lon": 76.6394,
+    "from_bengaluru_km": 145,
+    "from_bengaluru_hours": 3.5,
+    "best_months": "Oct-Mar",
+    "tags": ["Heritage", "Spiritual", "Food", "Nature"],
+    "daily_cost": {"budget": 1200, "standard": 2500, "luxury": 6000},
+    "description": "The city of palaces, famous for its royal heritage, silk and the grand Dasara festival.",
+    "famous_food": "Mysore Pak",
+    "places": [
+      {"name": "Mysore Palace", "tags": ["Heritage"], "hours": 3},
+      {"name": "Chamundi Hills", "tags": ["Spiritual", "Nature"], "hours": 3},
+      {"name": "Devaraja Market", "tags": ["Food", "Culture"], "hours": 2},
+      {"name": "Brindavan Gardens", "tags": ["Nature", "Relaxation"], "hours": 2}
+    ]
+  },
+  {
+    "id": "coorg",
+    "name": "Coorg (Kodagu)",
+    "region": "Western Ghats",
+    "lat": 12.4244,
+    "lon": 75.7382,
+    "from_bengaluru_km": 245,
+    "from_bengaluru_hours": 5.5,
+    "best_months": "Oct-Mar",
+    "tags": ["Nature", "Coffee", "Wildlife", "Adventure", "Relaxation"],
+    "daily_cost": {"budget": 1500, "standard": 3200, "luxury": 8000},
+    "description": "Misty hills, coffee plantations and waterfalls in the Western Ghats.",
+    "famous_food": "Pandi Curry and Kadambuttu",
+    "places": [
+      {"name": "Abbey Falls", "tags": ["Nature"], "hours": 2},
+      {"name": "Raja's Seat", "tags": ["Nature", "Relaxation"], "hours": 1},
+      {"name": "Dubare Elephant Camp", "tags": ["Wildlife", "Adventure"], "hours": 3},
+      {"name": "Coffee Plantation Walk", "tags": ["Coffee", "Nature"], "hours": 3},
+      {"name": "Namdroling Monastery, Bylakuppe", "tags": ["Spiritual"], "hours": 2}
+    ]
+  },
+  {
+    "id": "hampi",
+    "name": "Hampi",
+    "region": "North Karnataka",
+    "lat": 15.3350,
+    "lon": 76.4600,
+    "from_bengaluru_km": 340,
+    "from_bengaluru_hours": 7,
+    "best_months": "Oct-Feb",
+    "tags": ["Heritage", "Adventure", "Spiritual", "Nature"],
+    "daily_cost": {"budget": 1000, "standard": 2200, "luxury": 5000},
+    "description": "UNESCO World Heritage site with the ruins of the Vijayanagara Empire among giant boulders.",
+    "famous_food": "Jolada Rotti and Ennegayi",
+    "places": [
+      {"name": "Virupaksha Temple", "tags": ["Spiritual", "Heritage"], "hours": 2},
+      {"name": "Vittala Temple and Stone Chariot", "tags": ["Heritage"], "hours": 3},
+      {"name": "Hemakuta Hill", "tags": ["Heritage", "Relaxation"], "hours": 1},
+      {"name": "Matanga Hill Sunrise Trek", "tags": ["Adventure", "Nature"], "hours": 2},
+      {"name": "Coracle Ride on Tungabhadra", "tags": ["Adventure", "Nature"], "hours": 1}
+    ]
+  },
+  {
+    "id": "gokarna",
+    "name": "Gokarna",
+    "region": "Coastal Karnataka",
+    "lat": 14.5479,
+    "lon": 74.3188,
+    "from_bengaluru_km": 480,
+    "from_bengaluru_hours": 10,
+    "best_months": "Oct-Mar",
+    "tags": ["Beach", "Spiritual", "Adventure", "Relaxation"],
+    "daily_cost": {"budget": 1000, "standard": 2200, "luxury": 5000},
+    "description": "A peaceful temple town with some of the cleanest beaches on the Karnataka coast.",
+    "famous_food": "Fresh Seafood and Coastal Fish Curry",
+    "places": [
+      {"name": "Om Beach", "tags": ["Beach"], "hours": 3},
+      {"name": "Kudle Beach", "tags": ["Beach", "Relaxation"], "hours": 3},
+      {"name": "Mahabaleshwar Temple", "tags": ["Spiritual"], "hours": 1},
+      {"name": "Beach Trek (Om to Half Moon to Paradise)", "tags": ["Adventure", "Beach"], "hours": 4}
+    ]
+  },
+  {
+    "id": "chikkamagaluru",
+    "name": "Chikkamagaluru",
+    "region": "Western Ghats",
+    "lat": 13.3161,
+    "lon": 75.7720,
+    "from_bengaluru_km": 245,
+    "from_bengaluru_hours": 5.5,
+    "best_months": "Sep-Mar",
+    "tags": ["Nature", "Coffee", "Adventure", "Relaxation"],
+    "daily_cost": {"budget": 1300, "standard": 2800, "luxury": 7000},
+    "description": "The land of coffee, home to Mullayanagiri, the highest peak in Karnataka.",
+    "famous_food": "Malnad Style Akki Rotti and Coffee",
+    "places": [
+      {"name": "Mullayanagiri Peak Trek", "tags": ["Adventure", "Nature"], "hours": 3},
+      {"name": "Baba Budangiri", "tags": ["Spiritual", "Nature"], "hours": 3},
+      {"name": "Hebbe Falls", "tags": ["Nature", "Adventure"], "hours": 4},
+      {"name": "Coffee Estate Visit", "tags": ["Coffee", "Nature"], "hours": 3}
+    ]
+  },
+  {
+    "id": "badami",
+    "name": "Badami, Aihole and Pattadakal",
+    "region": "North Karnataka",
+    "lat": 15.9149,
+    "lon": 75.6768,
+    "from_bengaluru_km": 480,
+    "from_bengaluru_hours": 9,
+    "best_months": "Oct-Feb",
+    "tags": ["Heritage", "Spiritual", "Nature"],
+    "daily_cost": {"budget": 900, "standard": 2000, "luxury": 4500},
+    "description": "Chalukyan rock-cut cave temples and the UNESCO site of Pattadakal.",
+    "famous_food": "Jolada Rotti with Yengai (stuffed brinjal)",
+    "places": [
+      {"name": "Badami Cave Temples", "tags": ["Heritage"], "hours": 3},
+      {"name": "Agastya Lake", "tags": ["Nature", "Relaxation"], "hours": 1},
+      {"name": "Pattadakal Temples", "tags": ["Heritage", "Spiritual"], "hours": 2},
+      {"name": "Aihole Temples", "tags": ["Heritage"], "hours": 3}
+    ]
+  },
+  {
+    "id": "jogfalls",
+    "name": "Jog Falls",
+    "region": "Malnad",
+    "lat": 14.2290,
+    "lon": 74.8120,
+    "from_bengaluru_km": 380,
+    "from_bengaluru_hours": 7.5,
+    "best_months": "Jul-Oct",
+    "tags": ["Nature", "Adventure", "Relaxation", "Wildlife"],
+    "daily_cost": {"budget": 1000, "standard": 2200, "luxury": 4500},
+    "description": "One of India's highest waterfalls, most spectacular during and after the monsoon.",
+    "famous_food": "Malnad Thali and Kotte Kadubu",
+    "places": [
+      {"name": "Jog Falls Viewpoint", "tags": ["Nature"], "hours": 2},
+      {"name": "Linganamakki Dam", "tags": ["Nature", "Relaxation"], "hours": 2},
+      {"name": "Sharavathi Backwaters", "tags": ["Adventure", "Nature"], "hours": 3}
+    ]
+  },
+  {
+    "id": "udupi",
+    "name": "Udupi",
+    "region": "Coastal Karnataka",
+    "lat": 13.3409,
+    "lon": 74.7421,
+    "from_bengaluru_km": 400,
+    "from_bengaluru_hours": 8,
+    "best_months": "Oct-Mar",
+    "tags": ["Food", "Spiritual", "Beach", "Relaxation"],
+    "daily_cost": {"budget": 1000, "standard": 2200, "luxury": 5000},
+    "description": "Home of the famous Udupi cuisine and the Sri Krishna Temple, close to calm beaches.",
+    "famous_food": "Udupi Sambar, Neer Dosa and Golibaje",
+    "places": [
+      {"name": "Sri Krishna Temple", "tags": ["Spiritual"], "hours": 2},
+      {"name": "Malpe Beach", "tags": ["Beach", "Relaxation"], "hours": 3},
+      {"name": "St. Mary's Island", "tags": ["Beach", "Nature"], "hours": 3},
+      {"name": "Udupi Food Trail", "tags": ["Food"], "hours": 2}
+    ]
+  },
+  {
+    "id": "belur",
+    "name": "Belur and Halebidu",
+    "region": "Hassan District",
+    "lat": 13.1650,
+    "lon": 75.8650,
+    "from_bengaluru_km": 220,
+    "from_bengaluru_hours": 4.5,
+    "best_months": "Oct-Mar",
+    "tags": ["Heritage", "Spiritual"],
+    "daily_cost": {"budget": 900, "standard": 2000, "luxury": 4500},
+    "description": "Masterpieces of Hoysala temple architecture with fine stone carvings.",
+    "famous_food": "Hassan Style Masala Dosa and Filter Coffee",
+    "places": [
+      {"name": "Chennakeshava Temple, Belur", "tags": ["Heritage", "Spiritual"], "hours": 2},
+      {"name": "Hoysaleswara Temple, Halebidu", "tags": ["Heritage", "Spiritual"], "hours": 2}
+    ]
+  }
+]
